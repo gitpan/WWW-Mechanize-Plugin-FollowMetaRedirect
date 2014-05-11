@@ -4,7 +4,7 @@
       "Ryo Okamoto <ryo@aquahill.net>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.4.4",
+   "generated_by" : "Minilla/v0.5.3",
    "license" : "perl_5",
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -55,7 +55,7 @@
    "provides" : {
       "WWW::Mechanize::Plugin::FollowMetaRedirect" : {
          "file" : "lib/WWW/Mechanize/Plugin/FollowMetaRedirect.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -69,5 +69,5 @@
          "web" : "https://github.com/ryochin/p5-www-mechanize-plugin-followmetaredirect"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
